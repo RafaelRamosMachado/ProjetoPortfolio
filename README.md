@@ -1,6 +1,6 @@
 # Projeto Portifolio
 
-## Projeto de desafio para o desenvolvimento de um portifólio pelo curso Startse da Tech Academy!
+## Projeto de desafio para o desenvolvimento de um portifólio pelo curso StartSe da Tech Academy!
 
 ### Site Responsivo utilizando somente HTML e CSS.
 
