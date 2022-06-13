@@ -1,4 +1,4 @@
-# Projeto Portfolio
+# Projeto Portfólio
 
 ## Projeto de desafio para o desenvolvimento de um portfólio pelo curso StartSe da Tech Academy!
 
